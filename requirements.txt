@@ -1,0 +1,11 @@
+chromadb
+sentence-transformers
+PyPDF2
+transformers
+accelerate
+langchain
+langchain-community
+faiss-cpu
+# faiss-gpu
+usearch
+streamlit
